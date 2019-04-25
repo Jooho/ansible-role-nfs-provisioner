@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: nfs_provisioner
   author: Jooho Lee
   description: NFS Provisioner
   company: Red Hat
