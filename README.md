@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 NFS Provisioner
 =========
 
@@ -81,6 +80,3 @@ Author Information
 
 This role was created in 2019 by [Jooho Lee](http://github.com/jooho).
 
-=======
-# ansible-role-nfs-provisioner
->>>>>>> 7d2dc4573751455eda1a9b52e54ed01c1374c59f
